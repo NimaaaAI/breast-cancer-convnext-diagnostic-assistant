@@ -1,4 +1,4 @@
-# 🩺 ROI-Optimized Breast Cancer Diagnostic Assistant
+# 🩺breast-cancer-convnext-diagnostic-assistant
 ### **Local Medical Inference + Llama 4 Clinical Reporting**
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?style=for-the-badge&logo=python)
@@ -36,8 +36,8 @@ By combining a fine-tuned **ConvNeXt-Tiny** "Expert" model with a **Llama 4** "C
 ## 📸 Demo Preview
 When an image is uploaded, the system executes local inference and returns a formatted report:
 
-> **[REPLACE THIS WITH YOUR SCREENSHOT]**
-> *Example output: Identifying a borderline finding with 58.53% confidence and recommending radiological review.*
+<img width="1019" height="901" alt="image" src="https://github.com/user-attachments/assets/a09b0787-638a-460a-bf5a-5964b28ce3a6" />
+
 
 ---
 
