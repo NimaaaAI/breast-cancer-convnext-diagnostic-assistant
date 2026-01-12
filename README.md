@@ -1,8 +1,8 @@
 # 🩺breast-cancer-convnext-diagnostic-assistant
 ### **Local Medical Inference + Llama 4 Clinical Reporting**
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?style=for-the-badge&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg?style=for-the-badge&logo=pytorch)
+![Python](https://img.shields.io/badge/Python+-blue.svg?style=for-the-badge&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch+-EE4C2C.svg?style=for-the-badge&logo=pytorch)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Transformers-orange.svg?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-Llama4-red.svg?style=for-the-badge)
 
