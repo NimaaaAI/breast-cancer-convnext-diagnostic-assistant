@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.vscode/
+.env
+.chainlit/
+medical_model_weights/model.safetensors
+medical_model_weights/config.json
